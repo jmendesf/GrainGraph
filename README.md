@@ -1,5 +1,6 @@
 # Affichage des grains dans un espace 3D interactif par l'utilisateur.
 
+(Cloned from https://github.com/Flodeco22/grains3D)
 Développeur : Léo LEFEBVRE (leo.lefebvre@ecole.ensicaen.fr)
 
 ## Contexte
